@@ -9,7 +9,7 @@
 /* Đổi màu nền trang web */
 body {
     /*test*/
-    background-image: url('anh-nen.jpg');
+    background-image: url("https://th.bing.com/th/id/OIP.dTgTIKWl85Qt9-DDQB7Q6gHaEM?w=322&h=187&c=7&r=0&o=7&dpr=1.5&pid=1.7&rm=3");
     background-size: cover;       /* Tự động co giãn phủ kín toàn bộ màn hình */
     background-position: center;  /* Căn ảnh vào chính giữa */
     background-repeat: no-repeat; /* Không lặp lại hình ảnh */
