@@ -8,6 +8,13 @@
 
 /* Đổi màu nền trang web */
 body {
+    /*test*/
+    background-image: url('anh-nen.jpg');
+    background-size: cover;       /* Tự động co giãn phủ kín toàn bộ màn hình */
+    background-position: center;  /* Căn ảnh vào chính giữa */
+    background-repeat: no-repeat; /* Không lặp lại hình ảnh */
+    background-attachment: fixed; /* (Tùy chọn) Giữ cố định nền khi cuộn trang */
+    /*code chính*/
     background-color: #f4f4f9;
     color: #333;
     line-height: 1.6;
